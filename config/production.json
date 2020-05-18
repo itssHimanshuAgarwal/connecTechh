@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://himanshu12:himanshu12@connectech-enhpf.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret",
+  "githubClientId": "fb3e771354edeffcc5b0",
+  "githubSecret": "7f0757717ab90625cf2c3cf860d7fa88223b9b9a"
+}
