@@ -49,3 +49,14 @@ export default connect(
   mapStateToProps,
   { getProfiles }
 )(Profiles);
+
+Profiles.propTypes = {
+  getProfiles: PropTypes.func.isRequired,
+  profile: PropTypes.object.isRequired,
+};
+
+const mapStateToProps = (state) => ({
+  profile: state.profile,
+});
+
+export default connect(mapStateToProps, { getProfiles })(Profiles);
