@@ -1,7 +1,7 @@
 {
-  "name": "connecTechh",
+  "name": "connectechh",
   "version": "1.0.0",
-  "description": "Social Network for developers",
+  "description": "Social Media Platform for developers",
   "main": "server.js",
   "engines": {
     "node": "12.16.3",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "\"PN\""
   },
-  "author": "",
+  "author": "Himanshu R Agarwal",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
